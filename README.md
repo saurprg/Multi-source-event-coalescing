@@ -1,1 +1,1 @@
-# Multi-source-event-coalescing
+# Multi-source Event Coalescing
