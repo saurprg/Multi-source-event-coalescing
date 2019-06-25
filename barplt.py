@@ -1,7 +1,9 @@
+# To plot the bar graph of detected log events
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
 from random import randint as rnd
+import pandas
 
 class barplotter:
     """
