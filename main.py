@@ -1,5 +1,5 @@
 """
-Multi-source event coalehscing:
+Multi-source Event coalehscing:
 Event data coming from logs such as server logs, windows or linux logs etc are very common
 in an infrastructure management world. Often multiple events across logs refer to the same problem.
 Matching these events is key to reducing noise. Given a set of event data,
